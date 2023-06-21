@@ -1,0 +1,27 @@
+Business Requiremnt Specification
+
+Author:Supriya Bhinge( Business Analyst)
+
+Title:e-library
+
+Stakeholders:
+	  Librarian
+	  Application admin,
+	  Students.
+
+Document generated with the help of  series of meetings  held 
+between Domain Experts and Business Analysts.
+
+First Draft : 21/06/2023
+Revised Draft: 21/06/2023
+
+Requirement:
+Library management system is a project which aims in developing a computerized system to maintain all the daily work of the library .
+This project has many features which are generally not available in normal libraries like facility of librarian and admin login. 
+Admin can add, delete data of librarians and librarians can keep the data of books, edit/delete it.
+This system contains a list of all the books. Using this system librarians can issue books to the students, 
+maintain their records, and can check how many books are issued and how many books are available in the library.
+Overall this project is being developed to help the staff of the library to maintain the library
+in the best way possible and also reduce human efforts.
+
+
